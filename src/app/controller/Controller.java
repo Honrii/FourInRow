@@ -18,6 +18,7 @@ import javafx.scene.layout.Background;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.StackPane;
 import javafx.scene.paint.Color;
+import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
 
@@ -101,6 +102,7 @@ public class Controller {
 
 
                                     Button buttontoChange = (Button) tableroScene.lookup("#"+espacioLibre(((Button) actionEvent.getSource()).getId()));
+                                    buttontoChange.setShape(new Circle(1.5));
                                     buttontoChange.setStyle(playerTirada.getColor());
 
 
