@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff95e956-33d1-4350-8422-f20952314882" name="Default Changelist" comment="" />
+    <list default="true" id="ff95e956-33d1-4350-8422-f20952314882" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/view/startGame.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/win.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FourInRow/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FourInRow/app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FourInRow/app/controller/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FourInRow/app/controller/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FourInRow/app/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FourInRow/app/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FourInRow/app/model/Jugador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FourInRow/app/model/Jugador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FourInRow/app/view/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FourInRow/app/view/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/model/Jugador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/model/Jugador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/view/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/view/sample.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,17 +41,36 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/JavaFX/javafx-sdk-15.0.1/lib" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/cuatroEnRalla" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\usuario\IdeaProjects\FourInRow\src\app\view" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="app.Main" />
       <module name="FourInRow" />
       <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\usuario\JavaFX\javafx-sdk-15.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -46,7 +85,13 @@
       <option name="presentableId" value="Default" />
       <updated>1613926635245</updated>
       <workItem from="1613926636336" duration="7042000" />
-      <workItem from="1614002434403" duration="844000" />
+      <workItem from="1614002434403" duration="4302000" />
+      <workItem from="1614007920469" duration="657000" />
+      <workItem from="1614173981263" duration="10000" />
+      <workItem from="1614425285969" duration="847000" />
+      <workItem from="1614938878410" duration="4557000" />
+      <workItem from="1615024525015" duration="8445000" />
+      <workItem from="1615140569550" duration="7011000" />
     </task>
     <task id="LOCAL-00001" summary="2nd commit">
       <created>1614003019711</created>
@@ -55,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614003019711</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2nd commit">
+      <created>1614003412178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614003412178</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

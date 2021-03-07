@@ -7,19 +7,18 @@
    <children>
       <Pane layoutX="75.0" layoutY="42.0" prefHeight="143.0" prefWidth="200.0">
          <children>
-            <ColorPicker fx:id="j1Color" layoutX="11.0" layoutY="90.0" />
+            <ColorPicker fx:id="J1color" layoutX="11.0" layoutY="90.0" />
             <Label layoutX="20.0" layoutY="6.0" text="Nombre J1:" />
-            <TextField fx:id="j1Name" layoutX="6.0" layoutY="32.0" />
+            <TextField fx:id="J1Name" layoutX="6.0" layoutY="32.0" />
          </children>
       </Pane>
       <Pane layoutX="283.0" layoutY="42.0" prefHeight="200.0" prefWidth="200.0">
          <children>
-            <ColorPicker fx:id="j2Color" layoutX="5.0" layoutY="88.0" />
+            <ColorPicker fx:id="J2Color" layoutX="5.0" layoutY="88.0" />
             <Label layoutX="14.0" layoutY="6.0" text="Nombre J2:" />
-            <TextField fx:id="j2Name" layoutX="14.0" layoutY="31.0" />
+            <TextField fx:id="J2Name" layoutX="14.0" layoutY="31.0" />
          </children>
       </Pane>
       <Button fx:id="generateButton" layoutX="173.0" layoutY="230.0" onAction="#generarTablero" prefHeight="25.0" prefWidth="205.0" text="PLAY" GridPane.columnIndex="0" GridPane.rowIndex="2" />
    </children>
 </AnchorPane>
-

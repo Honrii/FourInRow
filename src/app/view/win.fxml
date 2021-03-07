@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane prefHeight="400.0" fx:id="winPane" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Controller">
+   <children>
+      <Label layoutX="153.0" layoutY="128.0" prefHeight="106.0" prefWidth="259.0" text="HAS GANADO" />
+   </children>
+</GridPane>
